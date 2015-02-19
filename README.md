@@ -7,7 +7,7 @@ We’re using GitHub’s desktop application for Git, so the difference between 
 
 We won't cover the command line interface (CLI) in the workshop, but the slide deck contains the commands you need, in case you want to explore using the CLI in the future.
 
-## What is Git?
+## WHAT IS GIT?
 
 Git is an open-source, **distributed** **version control system**.
 
